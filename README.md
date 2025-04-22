@@ -45,7 +45,7 @@ Key topics include **Blade templating, authentication (Login), database operatio
 1. Clone the repository:
    ```bash
    git clone https://github.com/WaqasAhmed-123/laravel-projects.git
-   cd laravel-learning-projects
+   cd laravel-projects
    ```
 2. Navigate to a project folder:
    ```bash
