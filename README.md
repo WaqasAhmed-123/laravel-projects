@@ -3,9 +3,6 @@
 
 This repository contains various learning projects built using the **Laravel Framework**. Each folder represents a focused mini-project that demonstrates essential concepts and features of Laravel, such as authentication, database operations, email sending, and full system implementation.
 
-## Note
-Each project is placed in a separate folder labeled with a number and title for easy identification and navigation.
-
 ## About
 
 This repository is designed to help understand the core principles of Laravel development including routing, controllers, models, database migrations, Blade templating, email handling, authentication, and full-stack functionality.
